@@ -2,7 +2,7 @@ joblib
 Flask==1.1.1
 scikit-learn>=0.18
 pandas>=0.19
-numpy>=1.9.2
+numpy>=1.19.2
 gunicorn==19.9.0
 requests
 scipy
